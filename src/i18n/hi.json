@@ -1,0 +1,162 @@
+{
+  "gate": {
+    "tap": "निमंत्रण खोलने के लिए स्पर्श करें",
+    "loading": "लोड हो रहा है..."
+  },
+  "lang": {
+    "en": "EN",
+    "hi": "हिन्दी"
+  },
+  "ganesh": {
+    "invocation": "॥ श्री गणेशाय नमः ॥",
+    "shlok": "वक्रतुण्ड महाकाय सूर्यकोटि समप्रभ। निर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा॥",
+    "skip": "छोड़ें"
+  },
+  "hero": {
+    "weds": "weds",
+    "weds_hi": "वेड्स",
+    "saveTheDate": "यह तिथि याद रखें",
+    "scrollCue": "नीचे स्क्रॉल करें",
+    "blessings": "परिवार के आशीर्वाद से वे आपको इस मंगलमय उत्सव में सम्मिलित होने का निमंत्रण देते हैं।"
+  },
+  "nimantran": {
+    "title": "Nimantran",
+    "title_hi": "निमंत्रण",
+    "brideFamily": "Bride's Family",
+    "brideFamily_hi": "वधू पक्ष",
+    "groomFamily": "Groom's Family",
+    "groomFamily_hi": "वर पक्ष",
+    "viewFamily": "परिवार देखें",
+    "hideFamily": "छुपाएं"
+  },
+  "countdown": {
+    "title": "Counting Down to Forever",
+    "title_hi": "उस पल का इंतजार",
+    "days": "दिन",
+    "hours": "घंटे",
+    "minutes": "मिनट",
+    "seconds": "सेकंड",
+    "addToCalendar": "कैलेंडर में जोड़ें",
+    "passed": "शुभ मुहूर्त आ गया है!"
+  },
+  "story": {
+    "title": "Our Story",
+    "title_hi": "हमारी कहानी",
+    "subtitle": "हमारी कहानी"
+  },
+  "events": {
+    "title": "The Celebrations",
+    "title_hi": "उत्सव",
+    "date": "तिथि",
+    "time": "समय",
+    "venue": "स्थान",
+    "dressCode": "वस्त्र संहिता",
+    "muhurat": "मुहूर्त",
+    "getDirections": "रास्ता देखें",
+    "addToCalendar": "कैलेंडर में जोड़ें",
+    "familyOnly": "केवल परिवार",
+    "reachBy": "कृपया इस समय तक पहुंचें"
+  },
+  "rituals": {
+    "title": "Rasmon ki Jankari",
+    "title_hi": "रस्मों की जानकारी",
+    "subtitle": "हमारी पवित्र परंपराओं का परिचय"
+  },
+  "gallery": {
+    "title": "Gallery",
+    "title_hi": "गैलरी",
+    "preWedding": "प्री-वेडिंग",
+    "engagement": "सगाई",
+    "family": "परिवार",
+    "all": "सभी"
+  },
+  "rsvp": {
+    "title": "RSVP",
+    "title_hi": "उपस्थिति",
+    "subtitle": "कृपया इस तारीख से पहले जवाब दें",
+    "step1": "आपकी जानकारी",
+    "step2": "कार्यक्रम",
+    "step3": "प्राथमिकताएं",
+    "name": "आपका नाम / परिवार का नाम",
+    "phone": "फोन नंबर",
+    "attending": "क्या आप आएंगे?",
+    "yes": "हाँ, जरूर आएंगे!",
+    "no": "आने में असमर्थ हैं",
+    "guests": "मेहमानों की संख्या",
+    "adults": "वयस्क",
+    "children": "बच्चे",
+    "meal": "भोजन प्राथमिकता",
+    "veg": "शाकाहारी",
+    "jain": "जैन (बिना जड़ वाली सब्जी)",
+    "noOnion": "बिना प्याज / बिना लहसुन",
+    "arrivalDate": "आगमन की संभावित तारीख",
+    "needStay": "ठहरने की व्यवस्था चाहिए?",
+    "needPickup": "हवाई अड्डे / स्टेशन से लेने की व्यवस्था?",
+    "specialNeeds": "कोई विशेष आवश्यकता या टिप्पणी",
+    "submit": "RSVP की पुष्टि करें",
+    "next": "आगे",
+    "back": "पीछे",
+    "whatsappConfirm": "WhatsApp पर भेजें",
+    "successTitle": "धन्यवाद! 🙏",
+    "successMsg": "Your RSVP has been received. We can't wait to celebrate with you!",
+    "successMsg_hi": "धन्यवाद! आपकी उपस्थिति की पुष्टि प्राप्त हो गई है। आपसे मिलने का इंतजार रहेगा।"
+  },
+  "admin": {
+    "title": "होस्ट डैशबोर्ड",
+    "rsvpList": "RSVP सूची",
+    "totalAttending": "उपस्थित",
+    "totalDeclined": "अनुपस्थित",
+    "totalPending": "प्रतीक्षारत",
+    "exportCSV": "CSV डाउनलोड करें",
+    "importGuests": "अतिथि सूची आयात करें",
+    "generateLink": "लिंक बनाएं",
+    "copyLink": "लिंक कॉपी करें",
+    "sendWhatsApp": "WhatsApp पर भेजें",
+    "filter": "कार्यक्रम के अनुसार फ़िल्टर करें"
+  },
+  "travel": {
+    "title": "Travel & Stay",
+    "title_hi": "यात्रा एवं ठहराव",
+    "airport": "निकटतम हवाई अड्डा",
+    "station": "निकटतम रेलवे स्टेशन",
+    "hotels": "अनुशंसित होटल",
+    "stars": "सितारे",
+    "contactPickup": "लाने के लिए संपर्क करें",
+    "bookNow": "अभी बुक करें",
+    "call": "कॉल करें"
+  },
+  "shagun": {
+    "title": "Shagun",
+    "title_hi": "शगुन",
+    "msg": "Your presence is our greatest blessing.",
+    "msg_hi": "आपकी उपस्थिति हमारा सबसे बड़ा आशीर्वाद है।",
+    "upi": "UPI से शगुन भेजें"
+  },
+  "wishes": {
+    "title": "Aashirvaad",
+    "title_hi": "आशीर्वाद",
+    "subtitle": "जोड़े को अपना आशीर्वाद दें",
+    "placeholder": "अपना आशीर्वाद लिखें...",
+    "name": "आपका नाम",
+    "submit": "आशीर्वाद भेजें",
+    "empty": "पहले आशीर्वाद भेजने वाले बनें!"
+  },
+  "footer": {
+    "love": "प्रेम और आशीर्वाद के साथ,",
+    "families": "मीनल, अविनाश और दोनों परिवारों की ओर से",
+    "share": "निमंत्रण साझा करें",
+    "copyLink": "लिंक कॉपी करें",
+    "copied": "कॉपी हो गया!",
+    "credit": "❤️ के साथ बनाया गया"
+  },
+  "nav": {
+    "events": "उत्सव",
+    "rsvp": "RSVP",
+    "map": "नक्शा",
+    "share": "साझा करें"
+  },
+  "music": {
+    "play": "संगीत चलाएं",
+    "pause": "संगीत रोकें"
+  }
+}

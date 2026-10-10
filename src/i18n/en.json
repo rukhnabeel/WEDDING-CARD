@@ -1,0 +1,162 @@
+{
+  "gate": {
+    "tap": "Tap to Open the Invitation",
+    "loading": "Loading..."
+  },
+  "lang": {
+    "en": "EN",
+    "hi": "हिन्दी"
+  },
+  "ganesh": {
+    "invocation": "॥ श्री गणेशाय नमः ॥",
+    "shlok": "वक्रतुण्ड महाकाय सूर्यकोटि समप्रभ। निर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा॥",
+    "skip": "Skip Intro"
+  },
+  "hero": {
+    "weds": "weds",
+    "weds_hi": "वेड्स",
+    "saveTheDate": "Save the Date",
+    "scrollCue": "Scroll to explore",
+    "blessings": "With the blessings of their families, they invite you to be a part of this joyous celebration."
+  },
+  "nimantran": {
+    "title": "Nimantran",
+    "title_hi": "निमंत्रण",
+    "brideFamily": "Bride's Family",
+    "brideFamily_hi": "वधू पक्ष",
+    "groomFamily": "Groom's Family",
+    "groomFamily_hi": "वर पक्ष",
+    "viewFamily": "View Family",
+    "hideFamily": "Hide Family"
+  },
+  "countdown": {
+    "title": "Counting Down to Forever",
+    "title_hi": "उस पल का इंतजार",
+    "days": "Days",
+    "hours": "Hours",
+    "minutes": "Minutes",
+    "seconds": "Seconds",
+    "addToCalendar": "Add to Calendar",
+    "passed": "The auspicious moment has arrived!"
+  },
+  "story": {
+    "title": "Our Story",
+    "title_hi": "हमारी कहानी",
+    "subtitle": "Hamari Kahani"
+  },
+  "events": {
+    "title": "The Celebrations",
+    "title_hi": "उत्सव",
+    "date": "Date",
+    "time": "Time",
+    "venue": "Venue",
+    "dressCode": "Dress Code",
+    "muhurat": "Muhurat",
+    "getDirections": "Get Directions",
+    "addToCalendar": "Add to Calendar",
+    "familyOnly": "Family Only",
+    "reachBy": "Please arrive by"
+  },
+  "rituals": {
+    "title": "Rasmon ki Jankari",
+    "title_hi": "रस्मों की जानकारी",
+    "subtitle": "A guide to our sacred traditions"
+  },
+  "gallery": {
+    "title": "Gallery",
+    "title_hi": "गैलरी",
+    "preWedding": "Pre-Wedding",
+    "engagement": "Engagement",
+    "family": "Family",
+    "all": "All"
+  },
+  "rsvp": {
+    "title": "RSVP",
+    "title_hi": "उपस्थिति",
+    "subtitle": "Kindly respond by",
+    "step1": "Your Details",
+    "step2": "Functions",
+    "step3": "Preferences",
+    "name": "Your Name / Family Name",
+    "phone": "Phone Number",
+    "attending": "Attending?",
+    "yes": "Yes, joyfully!",
+    "no": "Unable to attend",
+    "guests": "Number of Guests",
+    "adults": "Adults",
+    "children": "Children",
+    "meal": "Meal Preference",
+    "veg": "Vegetarian",
+    "jain": "Jain (No root veg)",
+    "noOnion": "No Onion / No Garlic",
+    "arrivalDate": "Expected Arrival Date",
+    "needStay": "Need accommodation?",
+    "needPickup": "Need airport / station pickup?",
+    "specialNeeds": "Any special needs or notes",
+    "submit": "Confirm RSVP",
+    "next": "Next",
+    "back": "Back",
+    "whatsappConfirm": "Send via WhatsApp",
+    "successTitle": "Dhanyavaad! 🙏",
+    "successMsg": "Your RSVP has been received. We can't wait to celebrate with you!",
+    "successMsg_hi": "धन्यवाद! आपकी उपस्थिति की पुष्टि प्राप्त हो गई है। आपसे मिलने का इंतजार रहेगा।"
+  },
+  "admin": {
+    "title": "Host Dashboard",
+    "rsvpList": "RSVP List",
+    "totalAttending": "Attending",
+    "totalDeclined": "Declined",
+    "totalPending": "Pending",
+    "exportCSV": "Export CSV",
+    "importGuests": "Import Guest List",
+    "generateLink": "Generate Link",
+    "copyLink": "Copy Link",
+    "sendWhatsApp": "Send on WhatsApp",
+    "filter": "Filter by function"
+  },
+  "travel": {
+    "title": "Travel & Stay",
+    "title_hi": "यात्रा एवं ठहराव",
+    "airport": "Nearest Airport",
+    "station": "Nearest Railway Station",
+    "hotels": "Recommended Hotels",
+    "stars": "stars",
+    "contactPickup": "Contact for Pickup",
+    "bookNow": "Book Now",
+    "call": "Call"
+  },
+  "shagun": {
+    "title": "Shagun",
+    "title_hi": "शगुन",
+    "msg": "Your presence is our greatest blessing.",
+    "msg_hi": "आपकी उपस्थिति हमारा सबसे बड़ा आशीर्वाद है।",
+    "upi": "Send Shagun via UPI"
+  },
+  "wishes": {
+    "title": "Aashirvaad",
+    "title_hi": "आशीर्वाद",
+    "subtitle": "Leave your blessings for the couple",
+    "placeholder": "Write your blessings...",
+    "name": "Your Name",
+    "submit": "Send Blessings",
+    "empty": "Be the first to send your blessings!"
+  },
+  "footer": {
+    "love": "With love and blessings,",
+    "families": "Meenal & Avinash and families",
+    "share": "Share Invitation",
+    "copyLink": "Copy Link",
+    "copied": "Copied!",
+    "credit": "Crafted with ❤️ for a royal celebration"
+  },
+  "nav": {
+    "events": "Events",
+    "rsvp": "RSVP",
+    "map": "Map",
+    "share": "Share"
+  },
+  "music": {
+    "play": "Play music",
+    "pause": "Pause music"
+  }
+}
